@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi, I'm Sanjana Singh from India. I'm second year student who loves to play with code and learn something new everyday.
+Currently, I'm working on my skills and my goal is to start contributing here more in 2021.
+
+Major Skills - Python, C, Javascript, HTML, CSS, datastructure and algorithm, OOPs concept.
 
 <!--
 **Sanjana543/Sanjana543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
