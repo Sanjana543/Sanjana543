@@ -29,10 +29,6 @@
    <a href="https://auth.geeksforgeeks.org/user/sanjanasikarwar24/profile">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
 </a>
-  &nbsp;&nbsp;
-  <a href="_">
-  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/portfolio.svg" />
-</a>
 </p>
 <br />
 
