@@ -38,7 +38,7 @@
 🧮 I love solving complex programming problems.</br>
 🎓 I’m pursuing my Bachelors in Computer Science & Engineering. </br>
 👨‍💻 I’m an Open-Source enthusiast & I enjoy learning new things. </br>
- 📱 Currently working on developing my skills while learning about Big data.</br>
+ 📱 Currently working on improving my skills while learning about Big data.</br>
 
 ### My Experiences 🙌
 - [Interviewbit Technical Writer](https://www.interviewbit.com/) - InterviewBit is a platform to learn skills for technical jobs. I worked as technical writer here and contributed articles related to operating system and my learnings(generic articles) here.
