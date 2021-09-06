@@ -54,4 +54,4 @@
 - 
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Sanjana543&show_icons=true&hide_border=true)
 <br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id= Sanjana543.Sanjana543 )
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanjana543.Sanjana543)
