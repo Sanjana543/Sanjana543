@@ -9,6 +9,10 @@
 <a href="https://www.linkedin.com/in/sanjana-singh-7523a71ab/">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
+  &nbsp;&nbsp;
+ <a href="https://www.instagram.com/sanjanasingh3119/">
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 &nbsp;&nbsp;
 <a href="mailto:sanjana.sikarwar24@gmail.com">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
