@@ -33,8 +33,12 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering. </br>
-👨‍💻  I am passionate about Web Development, Big Data & I enjoy learning new things. </br>
+  
+💻 I'm a full stack web developer 
+🧮 I love solving complex programming problems.
+🎓 I’m pursuing my Bachelors in Computer Science & Engineering. </br>
+👨‍💻 I’m an Open-Source enthusiast & I enjoy learning new things. </br>
+ 📱 Currently working on developing my skills while learning about Big data.
 
 ### My Experiences 🙌
 - [Interviewbit Technical Writer](https://www.interviewbit.com/) - InterviewBit is a platform to learn skills for technical jobs. I worked as technical writer here and contributed articles related to operating system and my learnings(generic articles) here.
