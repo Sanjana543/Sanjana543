@@ -4,7 +4,7 @@
 </a>
 </p>
 <h3 align="center">Hey there, I'm Sanjana Singh! <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="70">
-<br><br><br>
+<br><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/sanjana-singh-7523a71ab/">
   <img align="center" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
