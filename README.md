@@ -25,6 +25,10 @@
   <a href="https://leetcode.com/Sanjana543/">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
+    &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/sanjanasikarwar24/profile">
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+</a>
 </p>
 <br />
 
