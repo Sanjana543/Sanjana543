@@ -51,7 +51,7 @@
 - Received cash prize for getting first rank in prograte's webathon.
 - Got 2nd rank in college coding contest - Game of code.
 - Many of my technical blogs are shortlisted by geeksforgeeks for respresentation in their social handles.
-- 
+
 ![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=Sanjana543&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Sanjana543.Sanjana543)
