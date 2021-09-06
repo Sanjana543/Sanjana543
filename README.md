@@ -21,6 +21,10 @@
 <a href="https://www.hackerrank.com/sanjana_sikarwa1">
   <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/Sanjana543/">
+  <img align="center" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 </p>
 <br />
 
