@@ -71,7 +71,13 @@ public class LocalWorkingDir implements WorkingDir {
             return this.path();
         }
 
-        if (path.isAbsolute() || path.toString().contains(".." + File.separator)) {
+        String pathAsString = path.toString();
+        if (
+            path.isAbsolute() ||
+            pathAsString.contains(".." + File.separator) ||
+            pathAsString.contains("../") ||
+            pathAsString.contains("..\\")
+        ) {
             throw new IllegalArgumentException(INVALID_RESOLVE_MESSAGE);
         }
 
@@ -115,7 +121,9 @@ public class LocalWorkingDir implements WorkingDir {
     @Override
     public Path createTempFile(byte[] content, String extension) throws IOException {
         String suffix = extension;
-        if (suffix != null && !suffix.isBlank() && !suffix.startsWith(".")) {
+        if (suffix != null && suffix.isBlank()) {
+            suffix = null;
+        } else if (suffix != null && !suffix.startsWith(".")) {
             suffix = "." + suffix;
         }
 
@@ -181,7 +189,7 @@ public class LocalWorkingDir implements WorkingDir {
 
             String matcherPattern = pattern.startsWith("glob:") || pattern.startsWith("regex:")
                 ? pattern
-                : "glob:" + basePath + File.separator + pattern;
+                : "glob:" + basePath + "/" + pattern;
             matchers.add(basePath.getFileSystem().getPathMatcher(matcherPattern));
         }
 
