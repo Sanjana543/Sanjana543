@@ -53,7 +53,10 @@ public class LocalWorkingDir implements WorkingDir {
     @Override
     public synchronized Path path(boolean create) {
         if (create) {
-            this.workingDirPath.toFile().mkdirs();
+            File directory = this.workingDirPath.toFile();
+            if (!directory.mkdirs() && !directory.isDirectory()) {
+                throw new IllegalStateException("Unable to create working directory: " + this.workingDirPath);
+            }
         }
 
         return this.workingDirPath;
@@ -72,8 +75,8 @@ public class LocalWorkingDir implements WorkingDir {
             throw new IllegalArgumentException(INVALID_RESOLVE_MESSAGE);
         }
 
-        Path basePath = this.path().toAbsolutePath();
-        Path resolvedPath = basePath.resolve(path).toAbsolutePath();
+        Path basePath = this.path().toAbsolutePath().normalize();
+        Path resolvedPath = basePath.resolve(path).normalize().toAbsolutePath();
 
         if (!resolvedPath.startsWith(basePath)) {
             throw new IllegalArgumentException(INVALID_RESOLVE_MESSAGE);
